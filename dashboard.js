@@ -5,7 +5,7 @@
 /* -------------------------
    Configuration / Helpers
 ------------------------- */
-const SHEET_ID = "1w5PrRJ9DFTAt8UmkJKlCLwK0mbvxCtjFX7jcVFli0gA";
+const SHEET_ID = "1AMMWqDHFgVoUYEU86zJkAIzBIrGWHFi-awHCvPWeX0k";
 const OPENSHEET_BASE = `https://opensheet.elk.sh/${SHEET_ID}`;
 const OPENSHEET = {
   SHOPS_BALANCE: `${OPENSHEET_BASE}/SHOPS%20BALANCE`,
